@@ -1,0 +1,15 @@
+p{
+    font-family:serif;
+    line-height: 30px;
+    color: #030303;
+}
+a{
+    font-style: italic;
+    
+}
+a:visited{
+    color: pink;
+}
+a:hover{
+    font-weight: bolder;
+}
